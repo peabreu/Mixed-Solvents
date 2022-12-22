@@ -1,0 +1,4 @@
+;name   bond_type     mass     charge   ptype   sigma         epsilon       Amb
+OW_tip4p2005 8      16.00   0.0000  A   3.15890e-01  7.74898e-01
+HW           1       1.008   0.0000  A   0.00000e+00  0.00000e+00
+
